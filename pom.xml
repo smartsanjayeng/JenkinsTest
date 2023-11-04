@@ -15,7 +15,7 @@
 	<name>SpringGitJenkinsIntegration</name>
 	<description>SpringGitJenkinsIntegration</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
